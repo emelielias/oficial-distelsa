@@ -1,0 +1,27 @@
+body {
+  background:url("../images/emely.jpg");
+  -webkit-background-size:cover;
+  -o-background-size:cover;
+  -moz-background-size:cover;
+  background-size:cover;
+	 
+}
+.titulo{
+	 color:#a8d3da;
+	 font-family:Top Secret;
+	 padding-left:30%; 
+
+}
+.estetica{
+	color:#88e1f2;
+	font-family: Monabelia;
+	padding-right:45%;
+	padding-top:2%;
+
+}
+.diseño{
+  padding-left:25%; 
+}
+.aparatos{
+	padding-left:70%; 
+}
